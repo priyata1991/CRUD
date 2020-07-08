@@ -14,3 +14,4 @@ NPM Installation
 2.mongoose 
 3.express-handlebars 
 4.bodyparser
+5.allow prototype access handlebars(npm i @handlebars/allow-prototype-access)
